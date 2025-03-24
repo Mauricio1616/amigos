@@ -5,5 +5,5 @@ function changeBackgroundColor() {
     document.body.style.backgroundColor = randomColor;
 
     // Muestra un mensaje especial al hacer clic
-    document.getElementById("specialMessage").innerHTML = "¡Gracias por ser una amiga increíble! 💖";
+    document.getElementById("specialMessage").innerHTML = "¡Gracias por ser un velatacú! ✨";
 }
