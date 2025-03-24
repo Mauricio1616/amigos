@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+    transition: background-color 2s ease;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #FF69B4; /* Color bonito y suave */
+    font-size: 3em;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 20px;
+}
+
+.button {
+    padding: 15px 30px;
+    background-color: #FF69B4;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 30px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #FF1493;
+}
+
+.message {
+    font-size: 1.3em;
+    margin-top: 40px;
+    color: #FF1493;
+}
